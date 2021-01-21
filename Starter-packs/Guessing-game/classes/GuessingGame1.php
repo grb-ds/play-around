@@ -1,6 +1,6 @@
 <?php
 
-class GuessingGame
+class GuessingGame1
 {
     public $maxGuesses;
     public $secretNumber;

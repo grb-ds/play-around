@@ -1,6 +1,6 @@
 <?php
 
-class RockPaperScissors
+class RockPaperScissors1
 {
     public function run()
     {
